@@ -1,0 +1,2 @@
+# TBUninstaller
+Uninstallion for WinTrollbox
