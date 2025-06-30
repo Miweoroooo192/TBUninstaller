@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\bin\Debug\net9.0-windows\TBUnistaller.exe
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\bin\Debug\net9.0-windows\TBUnistaller.deps.json
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\bin\Debug\net9.0-windows\TBUnistaller.runtimeconfig.json
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\bin\Debug\net9.0-windows\TBUnistaller.dll
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\bin\Debug\net9.0-windows\TBUnistaller.pdb
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.Form1.resources
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.dll
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\refint\TBUnistaller.dll
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.pdb
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\TBUnistaller.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TBUnistaller\TBUnistaller\obj\Debug\net9.0-windows\ref\TBUnistaller.dll
